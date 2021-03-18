@@ -15,16 +15,15 @@ date_format = "Jan 2006" # Date format https://gohugo.io/functions/dateformat/#r
 [[period]]
   title = "Crypto edition"
   subtitle = "Krusty krab"
-  location = "Bikini Bottom"
   date_start = "2021-04-01"
-  date_end = ""
-  description = "Chief cook of the biggest restaurant of Bikini Bottom."
+  date_end = "2021-04-01"
+  description = "The best nft crypto memes."
 
 [[period]]
   title = "Star Wars edition"
   subtitle = "Krusty krab"
   location = "California"
-  date_start = "2016-01-01"
+  date_start = "2021-06-01"
   date_end = "2021-06-01"
-  description = "I learned the basics of cooking, the passion and the secrets of a good burger."
+  description = "The best nft star wars memes."
 +++
